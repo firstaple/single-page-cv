@@ -26,3 +26,7 @@ single-page-cv/
 ## 라이선스
 
 MIT
+
+## 프로젝트 url
+
+https://roadmap.sh/projects/single-page-cv
