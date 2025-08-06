@@ -13,8 +13,6 @@
 ```bash
 git clone https://github.com/firstaple/single-page-cv.git
 cd single-page-cv
-npm install
-npm start
 ```
 
 ## 폴더 구조
